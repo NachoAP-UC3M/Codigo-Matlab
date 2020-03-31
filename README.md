@@ -11,7 +11,7 @@ To can generate the msgs in Matlab we should:
 
       sudo matlab 
   
-  2. In command Window use the command:
+  2. In Matlab in the command Window use the command:
     
       rosgenmsg('~/catkin_ws/src/') 
  
